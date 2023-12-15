@@ -4,3 +4,6 @@
 [submodule "day-two"]
 	path = day-two
 	url = git@github.com:jctaveras/aoc-day-two.git
+[submodule "day-three"]
+	path = day-three
+	url = git@github.com:jctaveras/aoc-day-three.git
